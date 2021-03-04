@@ -1,0 +1,20 @@
+body{
+    background-color: indigo;
+}
+
+h1{
+    background-color: darkslategrey;
+    width: 100px;
+    color:goldenrod;
+}
+
+h2{
+    background-color: darkslategrey;
+    width: 60px;
+    color:goldenrod;
+}
+
+p{
+    background-color:saddlebrown;
+    color:goldenrod;
+}

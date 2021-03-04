@@ -1,0 +1,34 @@
+body{
+    background-color: indigo;
+    
+}
+
+h1{
+    background-color: darkslategrey;
+    width: 100px;
+    color:goldenrod;
+}
+
+h2{
+    background-color: darkslategrey;
+    width: 80px;
+    color:goldenrod;
+}
+
+p{
+    background-color:saddlebrown;
+    color:goldenrod;
+    width: 1300px;
+}
+
+h3{
+    background-color: darkslategrey;
+    width: 80px;
+    color:goldenrod;
+}
+
+h4{
+    background-color: darkslategrey;
+    width: 80px;
+    color:goldenrod;
+}
